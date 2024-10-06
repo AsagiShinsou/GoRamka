@@ -1,0 +1,1 @@
+Simple way to print text message in border. Just import and use.
